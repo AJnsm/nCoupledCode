@@ -1,2 +1,2 @@
 # nCoupledCode
-Code to accompany the paper "Maximally persistent multipartite entanglement in Ising-coupled quantum states"
+Code to accompany the paper "Superdense Coding and Stabiliser Codes with Ising-coupled Entanglement"
